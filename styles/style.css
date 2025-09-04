@@ -202,7 +202,7 @@
   transition: border-color 0.3s ease;
 }
 
-.card__icon-button:focus { 
+.card__icon-button:focus {
   outline: none;
 }
 
